@@ -1,7 +1,7 @@
 # Sudoku Game using **C++**
 ## Observations when running the code
-1. If you're running on older C++ versions, consider substituting '#include <ctime>' and '#include <cstdlib>' for '#include <time.h>' '#include <stdlib.h>'
-2. Running on a console might be a problem for some people. To fix this problem, download **g++ and gcc** and should work properly
+1. If you're running on older C++ versions, consider substituting `#include <ctime>` and `#include <cstdlib>` for `#include <time.h>` `#include <stdlib.h>`
+2. Running on a console might be a problem for some people. To fix this problem, download **g++ and gcc** and should work properly (I recommend downloading from [MSYS2](https://www.msys2.org/))
 ## How to play the game:
  The objective is to complete the grid so that every row, column, and region contains all the numbers from 1 to 9, without any repetition. Here're some steps you should follow if you consider playing the game:
  1.**Understand the grid:** A standard Sudoku grid consists of a 9x9 square divided into nine 3x3 boxes. Each box is further divided into nine smaller squares, making a total of 81 squares in the grid.
