@@ -1,8 +1,8 @@
 # Sudoku Game using **C++**
 
-Created alongside with **Lucas Losekann** in Algorithms and Programming subject
-UNIVALI - Universidade do Vale do Itajaí
-June 26th 2023
+Created alongside with **Lucas Losekann** in Algorithms and Programming subject <br />
+UNIVALI - Universidade do Vale do Itajaí <br />
+June 26th 2023 <br />
 
 ## Observations when running the code
 1. If you're running on older C++ versions, consider substituting `#include <ctime>` and `#include <cstdlib>` for `#include <time.h>` `#include <stdlib.h>`
