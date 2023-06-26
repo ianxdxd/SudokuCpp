@@ -16,15 +16,15 @@ June 26th 2023 <br />
 
 3.**Number placement:** Start by analyzing the grid and identifying any numbers that can be immediately placed. Look for obvious placements based on the given numbers and any related constraints. For example, if a row already contains the numbers 1, 3, 4, 5, 6, 7, and 9, the missing number is 2.
 
-3.**Elimination:** Examine each row, column, and box to identify numbers that are missing. Eliminate possibilities by considering the numbers already present in the corresponding row, column, or box. For instance, if a box already contains the numbers 1, 2, 3, 5, 7, and 9, the missing numbers are 4 and 6.
+4.**Elimination:** Examine each row, column, and box to identify numbers that are missing. Eliminate possibilities by considering the numbers already present in the corresponding row, column, or box. For instance, if a box already contains the numbers 1, 2, 3, 5, 7, and 9, the missing numbers are 4 and 6.
 
-4.**Logic and deduction:** Use logical reasoning to determine the possible placements for each number. Look for opportunities to narrow down the choices by considering the constraints of the game. For example, if a number can only be placed in one row or column within a box, you can eliminate that number as a possibility in other rows or columns in the same box.
+5.**Logic and deduction:** Use logical reasoning to determine the possible placements for each number. Look for opportunities to narrow down the choices by considering the constraints of the game. For example, if a number can only be placed in one row or column within a box, you can eliminate that number as a possibility in other rows or columns in the same box.
 
-5.**Trial and error:** When you have exhausted all the logical deductions, you may need to resort to trial and error. Select an empty square and assign a number that seems likely. Continue solving the puzzle based on that choice. If you encounter a contradiction, backtrack and try a different number until you find the correct one.
+6.**Trial and error:** When you have exhausted all the logical deductions, you may need to resort to trial and error. Select an empty square and assign a number that seems likely. Continue solving the puzzle based on that choice. If you encounter a contradiction, backtrack and try a different number until you find the correct one.
 
-6.**Iterate and repeat:** Continue applying the logic and deduction techniques, combined with trial and error, until you complete the entire grid. Remember to double-check your placements to ensure accuracy.
+7.**Iterate and repeat:** Continue applying the logic and deduction techniques, combined with trial and error, until you complete the entire grid. Remember to double-check your placements to ensure accuracy.
 
-7.**Practice and patience:** Sudoku is a skill that improves with practice. Start with easier puzzles and gradually work your way up to more challenging ones. Developing your pattern recognition, logical thinking, and deduction skills will help you become a better Sudoku player over time.
+8.**Practice and patience:** Sudoku is a skill that improves with practice. Start with easier puzzles and gradually work your way up to more challenging ones. Developing your pattern recognition, logical thinking, and deduction skills will help you become a better Sudoku player over time.
 
 ## Final considerations
 For any further problems in the code do not hesite to contact me in my email **aragaoian@edu.univali.br**, I'll be very pleased.
