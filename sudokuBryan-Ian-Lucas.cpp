@@ -69,7 +69,7 @@ int main() {
                 // Contador das jogadas( totais e validas)
                 movimentosTotais = 0;
                 movimentosValidos = 0;
-                tipoDeRandomizacao = rand() % 3;
+                tipoDeRandomizacao = rand() % 4;
                 switch(tipoDeRandomizacao){
                     case 0:
                         //Invertida por linha
@@ -198,7 +198,6 @@ int main() {
                     colunaJogada = -1;
                     valorJogada = -1;
                     cin >> linhaJogada >> colunaJogada >> valorJogada;
-                    movimentosTotais++; // conta os movimentos totais
                     while(linhaJogada < 1 || linhaJogada > 9 || colunaJogada < 1 || colunaJogada > 9 || valorJogada < 1 || valorJogada > 9){
                         if(!cin.good()){
                             cin.clear();
@@ -210,6 +209,7 @@ int main() {
                         cout << "Jogada invalida! Digite novamente: ";
                         cin >> linhaJogada >> colunaJogada >> valorJogada;
                     }
+                     movimentosTotais++; // conta os movimentos totais
                     if(linhaJogada == 0 && colunaJogada == 0 && valorJogada == 0){
                         jogoRodando = false;
                         break;
